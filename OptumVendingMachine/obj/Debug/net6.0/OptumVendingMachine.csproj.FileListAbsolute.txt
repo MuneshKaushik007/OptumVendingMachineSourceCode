@@ -1,0 +1,15 @@
+F:\Learning\OptumVendingMachine\OptumVendingMachine\bin\Debug\net6.0\OptumVendingMachine.exe
+F:\Learning\OptumVendingMachine\OptumVendingMachine\bin\Debug\net6.0\OptumVendingMachine.deps.json
+F:\Learning\OptumVendingMachine\OptumVendingMachine\bin\Debug\net6.0\OptumVendingMachine.runtimeconfig.json
+F:\Learning\OptumVendingMachine\OptumVendingMachine\bin\Debug\net6.0\OptumVendingMachine.dll
+F:\Learning\OptumVendingMachine\OptumVendingMachine\bin\Debug\net6.0\OptumVendingMachine.pdb
+F:\Learning\OptumVendingMachine\OptumVendingMachine\obj\Debug\net6.0\OptumVendingMachine.csproj.AssemblyReference.cache
+F:\Learning\OptumVendingMachine\OptumVendingMachine\obj\Debug\net6.0\OptumVendingMachine.GeneratedMSBuildEditorConfig.editorconfig
+F:\Learning\OptumVendingMachine\OptumVendingMachine\obj\Debug\net6.0\OptumVendingMachine.AssemblyInfoInputs.cache
+F:\Learning\OptumVendingMachine\OptumVendingMachine\obj\Debug\net6.0\OptumVendingMachine.AssemblyInfo.cs
+F:\Learning\OptumVendingMachine\OptumVendingMachine\obj\Debug\net6.0\OptumVendingMachine.csproj.CoreCompileInputs.cache
+F:\Learning\OptumVendingMachine\OptumVendingMachine\obj\Debug\net6.0\OptumVendingMachine.dll
+F:\Learning\OptumVendingMachine\OptumVendingMachine\obj\Debug\net6.0\refint\OptumVendingMachine.dll
+F:\Learning\OptumVendingMachine\OptumVendingMachine\obj\Debug\net6.0\OptumVendingMachine.pdb
+F:\Learning\OptumVendingMachine\OptumVendingMachine\obj\Debug\net6.0\OptumVendingMachine.genruntimeconfig.cache
+F:\Learning\OptumVendingMachine\OptumVendingMachine\obj\Debug\net6.0\ref\OptumVendingMachine.dll
