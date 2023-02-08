@@ -8,7 +8,7 @@ using OptumVendingMachine.Models.Products;
 
 namespace OptumVendingMachine
 {
-    public class Utility
+    public class VendingService
     {
         public bool Validate(List<Coin> lstCoin, Product product, double totalCoinAmount)
         {

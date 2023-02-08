@@ -11,11 +11,11 @@ namespace TestProject
         [TestMethod]
         public void TestMethod1()
         {
-            Utility utility = new Utility();
+            VendingService vendingService = new VendingService();
             double totalCoinAmount = 0.25;
             var list=new List<Coin>();
             list.Add(new Quarters());
-            var isValid = utility.Validate(list, new Chips(), totalCoinAmount);
+            var isValid = vendingService.Validate(list, new Chips(), totalCoinAmount);
 
             Assert.AreEqual(false,isValid);
         }

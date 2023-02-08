@@ -23,8 +23,8 @@ Console.WriteLine("Please insert amount $"+ product.Price);
 Console.WriteLine("Available coin options");
 
 
-Utility utility = new Utility();
-while (utility.Validate(lstCoin, product, totalCoinAmount))
+VendingService vendingService = new VendingService();
+while (vendingService.Validate(lstCoin, product, totalCoinAmount))
 {
     // need to show coin list
     Console.WriteLine("Nickel ($ 1/20)");
