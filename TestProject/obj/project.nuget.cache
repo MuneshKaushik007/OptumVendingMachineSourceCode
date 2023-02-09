@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LSeyS1T8/kJbSn+vf/NJTBZkCNBMQd/hfXcXZbJan3yGs/+SEFP7m0fLeLeoKjDqhp9Jqm6eZjPY++iKSicmPw==",
+  "dgSpecHash": "XnFBICE8Z5kdTkEUXTyc8Uwpgjsthc6662YA4aqQzOdrcbzjmgUTxAF1BETxWVForz1w0F8DttOe6KJhSVZSAA==",
   "success": true,
-  "projectFilePath": "F:\\Learning\\OptumVendingMachine\\TestProject\\TestProject.csproj",
+  "projectFilePath": "F:\\Learning\\OptumVendingMachine\\TestProject\\VendingMachineTestProject.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PC\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\microsoft.codecoverage\\17.3.2\\microsoft.codecoverage.17.3.2.nupkg.sha512",

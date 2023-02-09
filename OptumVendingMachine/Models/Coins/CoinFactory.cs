@@ -22,7 +22,7 @@ namespace OptumVendingMachine.Models.Coins
                     return new Quarters();
                 case CoinEnum.Pennie:
                     return new Pennies();
-                default:
+                default:                    
                     throw new NotImplementedException();
             }
         }

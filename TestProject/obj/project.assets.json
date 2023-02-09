@@ -6894,9 +6894,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Learning\\OptumVendingMachine\\TestProject\\TestProject.csproj",
-      "projectName": "TestProject",
-      "projectPath": "F:\\Learning\\OptumVendingMachine\\TestProject\\TestProject.csproj",
+      "projectUniqueName": "F:\\Learning\\OptumVendingMachine\\TestProject\\VendingMachineTestProject.csproj",
+      "projectName": "VendingMachineTestProject",
+      "projectPath": "F:\\Learning\\OptumVendingMachine\\TestProject\\VendingMachineTestProject.csproj",
       "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
       "outputPath": "F:\\Learning\\OptumVendingMachine\\TestProject\\obj\\",
       "projectStyle": "PackageReference",

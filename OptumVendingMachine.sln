@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33205.214
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OptumVendingMachine", "OptumVendingMachine\OptumVendingMachine.csproj", "{CF44722D-DD68-42EF-B4C2-C6644C864FF6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OptumVendingMachine", "OptumVendingMachine\OptumVendingMachine.csproj", "{CF44722D-DD68-42EF-B4C2-C6644C864FF6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject", "TestProject\TestProject.csproj", "{15037CFB-A309-4C7E-BCA3-DA44145E065C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VendingMachineTestProject", "TestProject\VendingMachineTestProject.csproj", "{15037CFB-A309-4C7E-BCA3-DA44145E065C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

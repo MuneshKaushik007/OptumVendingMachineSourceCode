@@ -1,9 +1,8 @@
 using OptumVendingMachine;
 using OptumVendingMachine.Models.Coins;
 using OptumVendingMachine.Models.Products;
-using Xunit.Sdk;
 
-namespace TestProject
+namespace TestProject2
 {
     [TestClass]
     public class UnitTest1
@@ -12,12 +11,12 @@ namespace TestProject
         public void TestMethod1()
         {
             VendingService vendingService = new VendingService();
-            double totalCoinAmount = 0.25;
-            var list=new List<Coin>();
-            list.Add(new Quarters());
+            double totalCoinAmount = 0.1;
+            var list = new List<Coin>();
+            list.Add(new Dimes());
             var isValid = vendingService.Validate(list, new Chips(), totalCoinAmount);
 
-            Assert.AreEqual(false,isValid);
+            Assert.AreEqual(true, isValid);
         }
     }
 }
