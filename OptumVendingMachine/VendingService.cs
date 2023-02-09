@@ -5,8 +5,7 @@ namespace OptumVendingMachine
 {
     public class VendingService
     {
-        List<Coin> insertedCoin = new List<Coin>();
-        double totalCoinAmount = 0.0;
+        List<Coin> insertedCoin = new List<Coin>();       
         double returnCoinAmount = 0.0;
         /// <summary>
         /// Calculate and validate paid amount
@@ -17,6 +16,7 @@ namespace OptumVendingMachine
         public bool ValidatePaidAmount(Product product)
         {
             // iterate list and find total cost of coin
+            double totalCoinAmount = 0.0;
             if (insertedCoin.Count == 0)
             {
                 return true;
