@@ -9,7 +9,7 @@ namespace VendingMachineTestProject
     public class VendingServiceTest
     {
         [TestMethod]        
-        public void ValidatePaidAmount_WhenSuccess()
+        public void ValidatePaidAmount_InsertedTwoQuarterForDispenseProduct_WhenSuccess()
         {
             VendingService vendingService = new VendingService();
             vendingService.AddCoin(new Quarters());
@@ -20,7 +20,7 @@ namespace VendingMachineTestProject
         }
 
         [TestMethod]
-        public void ValidatePaidAmount_WhenFail()
+        public void ValidatePaidAmount_InsertedOneNickelForNotDispenseProduct_WhenFail()
         {
             VendingService vendingService = new VendingService();
             vendingService.AddCoin(new Nickels());
@@ -29,7 +29,7 @@ namespace VendingMachineTestProject
         }
 
         [TestMethod]
-        public void ValidateInsertedCoin_WhenSuccess()
+        public void ValidateInsertedCoin_WhenInsertedNickelCoin_Success()
         {
             VendingService vendingService = new VendingService();           
             var isValid = vendingService.ValidateCoin(new Nickels());
@@ -37,7 +37,7 @@ namespace VendingMachineTestProject
         }
 
         [TestMethod]
-        public void ValidateInsertedCoin_WhenFail()
+        public void ValidateInsertedCoin_WhenInsertedPennieCoin_Fail()
         {
             VendingService vendingService = new VendingService();
             var isValid = vendingService.ValidateCoin(new Pennies());
